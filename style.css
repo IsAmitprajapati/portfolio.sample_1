@@ -157,7 +157,7 @@ section {
 /**service**/
 .service {
     text-align: center;
-    background-image: url(./img/services-bg.jpg);
+    background-image: url(img/services-bg.jpg);
     background-size: cover;
     color:var(--white)
 }
